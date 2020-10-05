@@ -1,1 +1,9 @@
-# DSC680-Project3
+## Class
+Applied Data Science
+
+## About
+Project 3
+
+## Programming Language
+
+## Data
