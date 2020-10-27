@@ -5,6 +5,7 @@ Applied Data Science
 Project 3
 
 ## Programming Language
+Python, Jupyter Notebook
 
 ## Data
 The data is included in the repository.
