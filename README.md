@@ -2,7 +2,7 @@
 Applied Data Science
 
 ## About
-Project 3
+This projects aims to predict the beer style from ABV as well as predict a new brewery location.
 
 ## Programming Language
 Python, Jupyter Notebook
