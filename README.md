@@ -5,7 +5,7 @@ Applied Data Science
 This projects aims to predict the beer style from ABV as well as predict a new brewery location.
 
 ## File Information
-Proposal: "Project Three Proposal.pdf"
+Proposal: "Project 3 - Milestone 1 Proposal.pdf"
 
 Paper: 
 
