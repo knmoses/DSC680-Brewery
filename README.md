@@ -4,6 +4,10 @@ Applied Data Science
 ## About
 This projects aims to predict the beer style from ABV as well as predict a new brewery location.
 
+## File Information
+
+## Results
+
 ## Programming Language
 Python, Jupyter Notebook
 
