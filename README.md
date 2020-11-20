@@ -7,11 +7,13 @@ This projects aims to predict the beer style from ABV as well as predict a new b
 ## File Information
 Proposal: "Project Three Proposal.pdf"
 
-Paper: "Project 2 - Milestone 4 Final.pdf"
+Paper: 
 
-Presentation: "Project Two - Final Presentation.pdf"
+Presentation: 
 
-Q & A: "Project Two QA.pdf"
+Code: "Craft Beer Testing.ipynb"
+
+Q & A: "Project Three - Q&A.pdf"
 
 ## Results
 
