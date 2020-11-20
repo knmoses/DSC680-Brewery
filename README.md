@@ -23,6 +23,10 @@ Python, Jupyter Notebook
 ## Data
 The data is included in the repository.
 
+* beers.csv
+
+* breweries.csv
+
 For additional reference, see the website: https://www.kaggle.com/nickhould/craft-cans
 
 ## License
