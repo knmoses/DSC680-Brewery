@@ -11,7 +11,7 @@ Paper: "Project 3 - Milestone 4 Final Paper.pdf"
 
 Presentation: "Craft Beer Final Presentation"
 
-Code: "Craft Beer Testing.ipynb"
+Code: "Project 3 - Craft Beer.ipynb"
 
 Q & A: "Project Three - Q&A.pdf"
 
